@@ -1,0 +1,16 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.useInlineCompletions": true,
+  "editor.suggest.localityBonus": true,
+  "emmet.excludeLanguages": [
+    "markdown",
+    "javascript",
+    "javascriptreact"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "reactSnippets.settings.prettierEnabled": true
+}
